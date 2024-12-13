@@ -1,0 +1,63 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+  }
+  
+  /* Home section styling */
+  .home {
+    background-color: #ffffff;
+    padding: 100px;
+    margin: 20px auto;
+    max-width: 900px;
+    max-height: 1500px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Header styling */
+  .home h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    font-weight: 600;
+  }
+  
+  /* Paragraph styling */
+  .home p {
+    color: #34495e;
+    font-size: 1.1em;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  /* Link styling (if any links were to be included) */
+  .home a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  .home a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Responsive styling for smaller screens */
+  @media (max-width: 768px) {
+    .home {
+      padding: 30px;
+    }
+  
+    .home h1 {
+      font-size: 2em;
+    }
+  
+    .home p {
+      font-size: 1em;
+    }
+  }
+  

@@ -1,0 +1,39 @@
+/* Styling for Reviews page */
+.rate-talks-page {
+    padding: 20px;
+  }
+  
+  .talks-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .talk {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 350px;
+    margin: 10px;
+  }
+  
+  select {
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 1rem;
+    width: 100%;
+  }
+  
+  .average-rating {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  @media (max-width: 768px) {
+    .talk {
+      width: 100%;
+    }
+  }
+  

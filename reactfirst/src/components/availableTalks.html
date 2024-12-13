@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Available Talks</title>
+</head>
+<body>
+  <h1>Available Talks</h1>
+  <ul id="talks-list"></ul>
+
+  <script>
+    // Fetch available talks from the backend
+    fetch('http://localhost:3000/data')
+      .then(response => response.json())
+      .then(data => {
+        const availableTalks = data; // Store the talks data
+
+        // Display available talks on the page
+        const talksList = document.getElementById('talks-list');
+        availableTalks.forEach(talk => {
+          const listItem = document.createElement('li');
+          listItem.innerHTML = `
+            <strong>${talk.title || 'No title available'}</strong> by ${talk.speaker || 'Unknown Speaker'} (Session: ${talk.session || 'No session info'}, Time: ${talk.time || 'No time info'})
+            <p>${talk.description || 'No description available'}</p>
+            <p>Tags: ${talk.tags && talk.tags.length > 0 ? talk.tags.join(', ') : 'No tags available'}</p>
+            <p>Ratings: ${talk.ratings && talk.ratings.length > 0 ? talk.ratings.join(', ') : 'No ratings available'}</p>
+          `;
+          talksList.appendChild(listItem);
+        });
+      })
+      .catch(error => console.error('Error fetching data:', error));
+  </script>
+</body>
+</html>

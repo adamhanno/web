@@ -1,0 +1,86 @@
+/* Ensure the body and html take up the full height */
+body, html {
+  height: 100%; /* Full viewport height */
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Flex container to make the page layout flexible */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1; /* Ensure it takes up full height of the page */
+}
+
+/* Content area takes the available space */
+.content {
+  flex-grow: 1; /* Allow the content area to take up remaining space */
+  padding: 20px; /* Add padding to content area */
+  overflow-y: auto; /* Add scrolling if the content overflows */
+}
+
+/* General styles for layout */
+div {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Styling the filter section */
+.search-bar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.search-bar label {
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.search-bar select {
+  padding: 5px;
+  font-size: 14px;
+}
+
+/* Style for each talk item */
+.talk-item {
+  display: flex;
+  align-items: center; /* Align text and button vertically centered */
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.talk-info {
+  flex-grow: 1; /* Allow the title and speaker info to take up remaining space */
+  font-size: 16px;
+}
+
+/* Styling for the "Mark as Interested" button */
+button.interest-btn {
+  padding: 8px 16px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-left: 0px; /* Space between text and button */
+}
+
+button.interest-btn:hover {
+  background-color: #0056b3;
+}
+
+button.interest-btn.interested {
+  background-color: #28a745;  /* Green color for interested talks */
+}
+
+button.interest-btn.interested:hover {
+  background-color: #218838;
+}
+

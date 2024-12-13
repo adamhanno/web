@@ -1,0 +1,91 @@
+/* General styling for Talks section */
+.talks {
+    background-color: #f9f9f9;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .talks h2 {
+    font-size: 2.5em;
+    color: #2c3e50;
+    margin-bottom: 30px;
+  }
+  
+  /* Talks list styling */
+  .talks-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+    justify-items: center;
+  }
+  
+  /* Individual talk card styling */
+  .talk-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 100%;
+    max-width: 350px;
+    padding: 20px;
+    text-align: left;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .talk-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  /* Speaker image styling */
+  .speaker-image {
+    width: 100%;
+    border-radius: 8px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Talk info section */
+  .talk-info {
+    margin-top: 15px;
+  }
+  
+  .talk-info h3 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .talk-info p {
+    color: #34495e;
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  .talk-info strong {
+    color: #3498db;
+  }
+
+  .load-more {
+    margin-bottom: 50px; /* Adjust this value as needed */
+  }
+
+
+  .talks-list {
+    min-height: 200px; /* Ensures there is space for the content */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .talks h2 {
+      font-size: 2em;
+    }
+  
+    .talk-card {
+      max-width: 90%;
+    }
+  
+    /* Add margin to the Load More button for mobile */
+    .load-more {
+      margin-bottom: 20px; /* Adjust for mobile screens */
+    }
+  }

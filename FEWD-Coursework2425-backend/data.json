@@ -1,0 +1,144 @@
+[
+  {
+    "{\"id\":\"12\"": "{\"id\":\"10\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Joshua Johanan",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"Build Complex Express Sites with Redis and Socket.io",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"Discover the simplicity of Redis to make web applications faster than before. Create unique web servers and networking tools with Node.js. Implement real-time applications on websites using Socket.io with Express and Redis",
+    "session\":\"C": "session\":\"B",
+    "time\":\"10:30": "time\":\"15:30",
+    "tags\":[\"CSS": "tags\":[\"real-time",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"socket.io\"],\"ratings\":[2,2],\"_id\":\"2hxpMVGQ0rjB25rh\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"13\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Aravind Shenoy",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"JavaScript Security",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"This session starts off with an introduction to JavaScript security and gives you an overview of the basic functions JavaScript can perform on the Web, both on the client side and the server side. It demonstrates a couple of ways in which RESTful APIs can be laden with security flaws. You will also create a simple RESTful server using Express.js and Node.js. You will then focus on one of the most common JavaScript security attacks, cross-site scripting, and how to prevent cross-site scripting and cross-site forgery.",
+    "session\":\"C": "session\":\"C",
+    "time\":\"10:30": "time\":\"12:00",
+    "tags\":[\"CSS": "tags\":[\"CSS",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"HTML5\"],\"ratings\":[],\"_id\":\"2j3X6awvFzudQBog\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"5\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Hanu Prateek",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"ES6 for Humans",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"Learn ES6 best practices for code optimization and organization and walk through practical, common examples of how to implement complete components of your applications. While this talk covers the basic concepts of modern JavaScript, it primarily focuses on the new syntax, data-types, functionalities, and everything else that's new in ES6, the latest standard of JavaScript. ",
+    "session\":\"C": "session\":\"A",
+    "time\":\"10:30": "time\":\"15:30",
+    "tags\":[\"CSS": "tags\":[\"javascript",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"es6\"],\"ratings\":[3,1],\"_id\":\"3oScEDV5JK85k9bJ\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"3\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Chris Northwood",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"How to be a Full-Stack Web Developer",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"Understand the technical foundations, as well as the non-programming skills needed to be a successful full stack web developer. This session reveals the reasons why a truly successful full stack developer does more than write code. ",
+    "session\":\"C": "session\":\"A",
+    "time\":\"10:30": "time\":\"12:00",
+    "tags\":[\"CSS": "tags\":[\"full-stack",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"continuous delivery\"],\"ratings\":[4,4,4],\"_id\":\"D370egmhxuDG1nCe\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"15\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Monsur Hossain",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"CORS in Action: Creating and consuming cross-origin APIs",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"introduces Cross-Origin Resource Sharing (CORS) from both the server and the client perspective. It starts with the basics: how to make CORS requests and how to implement CORS on the server. It then explores key details such as performance, debugging, and security. API authors will learn how CORS opens their APIs to a wider range of users. JavaScript developers will find valuable techniques for building rich web apps that can take advantage of APIs hosted anywhere. ",
+    "session\":\"C": "session\":\"C",
+    "time\":\"10:30": "time\":\"15:30",
+    "tags\":[\"CSS": "tags\":[\"CORS",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"security\"],\"ratings\":[],\"_id\":\"DhwUQ8tWZhG6j0fH\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"1\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Martin Fowler",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"Patterns of Enterprise Application Architecture",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"The practice of enterprise application development has benefited from the emergence of many new enabling technologies. Multi-tiered object-oriented platforms, such as Java and .NET, have become commonplace. These new tools and technologies are capable of building powerful applications, but they are not easily implemented. Common failures in enterprise applications often occur because their developers do not understand the architectural lessons that experienced object developers have learned.",
+    "session\":\"C": "session\":\"A",
+    "time\":\"10:30": "time\":\"9:00",
+    "tags\":[\"CSS": "tags\":[\"patterns",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"archtecture\"],\"ratings\":[1,5,5,5,5,5],\"_id\":\"IrHX299ki7JvLvO0\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"6\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Anton Moiseev",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"Angular Development with TypeScript",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"Teaches you how to build web applications with Angular and TypeScript. Delivered in an accessible, lively style, this illuminating session covers core concerns like state management, data, forms, and server communication as you build a full-featured online auction app. You’ll get the skills you need to write type-aware classes, interfaces, and generics with TypeScript, and discover time-saving best practices to use in your own work ",
+    "session\":\"C": "session\":\"B",
+    "time\":\"10:30": "time\":\"9:00",
+    "tags\":[\"CSS": "tags\":[\"javascript",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "frameworks",
+    "_8": "\"angular\"],\"ratings\":[3,2,1],\"_id\":\"M8WuCe4Z9Uj7HftK\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"4\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Eve Porcello",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"Learning React",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"If you want to learn how to build efficient React applications, this is your talk. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this session provides best practices and patterns for writing modern React code ",
+    "session\":\"C": "session\":\"A",
+    "time\":\"10:30": "time\":\"14:00",
+    "tags\":[\"CSS": "tags\":[\"javascript",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "frameworks",
+    "_8": "\"react\"],\"ratings\":[3,4],\"_id\":\"Na0ZOrlPAS1vqJgJ\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"2\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"David Flanagan",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"JavaScript: The Definitive Guide",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"This talk is both an example-driven programmer's guide and a keep-on-your-desk reference, with new example that explain everything you need to know to get the most out of JavaScript.",
+    "session\":\"C": "session\":\"A",
+    "time\":\"10:30": "time\":\"10:30",
+    "tags\":[\"CSS": "tags\":[\"javascript",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"es6\"],\"ratings\":[3,4,5,5],\"_id\":\"TBs3saaeAgekyrrM\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"9\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Salvatore Loreto",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"Real-Time Communication with WebRTC",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"This session shows you how to use the emerging Web Real-Time Communication (WebRTC) technology to build a browser-to-browser application, piece by piece. ",
+    "session\":\"C": "session\":\"B",
+    "time\":\"10:30": "time\":\"14:00",
+    "tags\":[\"CSS": "tags\":[\"real-time",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"webrtc\"],\"ratings\":[5],\"_id\":\"hSSgnVsu30rVBh7U\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"8\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Jon Wexler",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"Get Programming with Node.js",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"Teaches you to build web servers using JavaScript and Node. In this engaging tutorial, we’ll work through eight complete projects, from writing the code for your first web server to adding live chat to a web app.  ",
+    "session\":\"C": "session\":\"B",
+    "time\":\"10:30": "time\":\"12:00",
+    "tags\":[\"CSS": "\"tags\":[\"node\"],\"ratings\":[],\"_id\":\"q3VqTpO0lo4AjLFo\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"11\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Alex Libby",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"SASS Essentials",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"Sass Essentials is a fast-paced, hands-on guide that breaks down the mysteries of preprocessing CSS styles using the Sass preprocessor and shows you how you can apply simple techniques to quickly and efficiently create CSS style sheets.",
+    "session\":\"C": "session\":\"C",
+    "time\":\"10:30": "time\":\"9:00",
+    "tags\":[\"CSS": "tags\":[\"CSS",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"Sass\"],\"ratings\":[2,3],\"_id\":\"sI6e6aXrwJ5EV0s5\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"14\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Haider Malik",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"The Complete JavaScript Unit Testing Guide",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"This course will teach you to use unit testing in your JavaScript applications and covers tools and techniques you'll need to write unit tests for your code. You will learn how to test applications using Jasmine, Mocha, Ava, Tape, and Intern.",
+    "session\":\"C": "session\":\"C",
+    "time\":\"10:30": "time\":\"14:00",
+    "tags\":[\"CSS": "tags\":[\"unit testing",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "\"mocha\"],\"ratings\":[3],\"_id\":\"wbxUHe73kWK7IiMK\"}"
+  },
+  {
+    "{\"id\":\"12\"": "{\"id\":\"7\"",
+    "speaker\":\"Aravind Shenoy": "speaker\":\"Vasan Subramanian",
+    "title\":\"HTML5 and CSS3 Transition, Transformation, and Animation": "title\":\"Full Stack Web App Development with Mongo, Express, React, and Node",
+    "description\":\"Discover the semantics of HTML5 and Microdata Understand the concept of the CSS3 Flexible Box model Explore the main features of HTML5 such as canvas, offline web application, geolocation, audio and video elements, and web storage Master the tools and utilities in HTML5 and CSS3 In Detail .": "description\":\"Assemble the complete stack required to build a modern web app using MongoDB, Express, React, and Node. This session also covers many other complementary tools: React Router, GraphQL, React-Bootstrap, Babel, and Webpack. ",
+    "session\":\"C": "session\":\"B",
+    "time\":\"10:30": "time\":\"10:30",
+    "tags\":[\"CSS": "tags\":[\"frameworks",
+    "\"HTML5\"],\"ratings\":[3,4],\"_id\":\"0g8m1KDVVcy5INSw\"}": "react",
+    "_8": "\"full-stack\"],\"ratings\":[3],\"_id\":\"zbEaelZIosoUK8mi\"}"
+  }
+]
